@@ -114,6 +114,7 @@ public class Lab5_ExCor5_Marcos_AlumnoS_GR01 {
             System.out.println("");
         }
         System.out.println("Total de moviles vendidos en la semana:" + Unidades);
+        Sistem.out.println("Hola esta es la edicion en linea");
         System.out.println("");
     }
 }
